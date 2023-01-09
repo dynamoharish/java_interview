@@ -1,7 +1,7 @@
 import java.util.Scanner;
 class factorial{  
  public static void main(String args[]){
-//Using Loop  
+//Using for Loop  
   int i,fact=1;  
   Scanner sc=new Scanner(System.in);
   System.out.println("Enter any number: ");
