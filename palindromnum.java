@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class palindrome{
+class palindromenum{
 
 public static void main(String args[]){
 
