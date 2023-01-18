@@ -1,4 +1,4 @@
-class count{
+class countofnum{
 public static void main(String args[]){
 
 int number=1234637;
