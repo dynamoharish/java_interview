@@ -9,7 +9,7 @@ public static void main(String args[])
  System.out.println("Enter the Count: ");
  count = sc.nextInt();
 
- //Without Using Recursion
+ //Without Using Recursion!
  System.out.print(n1+" "+n2);
 
 
