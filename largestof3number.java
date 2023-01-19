@@ -24,11 +24,14 @@ System.out.println("Largest no is: "+second);
 else{
 System.out.println("Largest no is: "+third);
 }
-*/
+
 
 //logic 2 using ternary operator
 largest = first>second?first:second;
 largest2 = third>largest?third:largest;
+*/
+//Ternary operator in single expression
+largest2 = third>(first>second?first:second)?third:(first>second?first:second);
 System.out.println("Largest no is : "+largest2);
 
 }
