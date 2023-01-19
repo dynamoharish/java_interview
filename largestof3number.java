@@ -10,24 +10,26 @@ System.out.println("Enter the Second Number : ");
 second = sc.nextInt();
 System.out.println("Enter the Third Number : ");
 third = sc.nextInt();
-
+int largest,largest2;
+/*
+//Logic 1
 if(first>second && first>third){
 
-System.out.println("FIrst number is Greater than others !");
+System.out.println("Largest no is: "+first);
 }
 else if(second>first && second>third){
-System.out.println("Second number is Greater than others !");
+System.out.println("Largest no is: "+second);
 
 }
 else{
+System.out.println("Largest no is: "+third);
+}
+*/
 
-System.out.println("Third number is Greater !");
-
+//logic 2 using ternary operator
+largest = first>second?first:second;
+largest2 = third>largest?third:largest;
+System.out.println("Largest no is : "+largest2);
 
 }
-
-
-}
-
-
 }
