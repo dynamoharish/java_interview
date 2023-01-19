@@ -2,7 +2,7 @@ import java.util.Scanner;
 class fibanocci{
 public static void main(String args[])
 {
- int n1=0,n2=1,n3,i,count=10;
+ int n1=0,n2=1,n3,i,count;
 
  Scanner sc=new Scanner(System.in);
 
