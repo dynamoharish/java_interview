@@ -12,7 +12,7 @@ System.out.println("Enter the Third Number : ");
 third = sc.nextInt();
 int largest,largest2;
 /*
-//Logic 1
+//Logic 1:
 if(first>second && first>third){
 
 System.out.println("Largest no is: "+first);
