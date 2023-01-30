@@ -1,8 +1,8 @@
 # java_interview
-Factorial
-Fibanocci
-Palindromeusing string
-Palindrom using Number
-Reverse a number
-Reverse a string
-Swap of Numbers
+1.Factorial
+2.Fibanocci
+3.Palindromeusing string
+4.Palindrom using Number
+5.Reverse a number
+6.Reverse a string
+7.Swap of Numbers
